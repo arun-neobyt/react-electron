@@ -1,0 +1,60 @@
+{
+    "aepsForm": [
+        {
+            "phone": "Enter Phone Number"
+        },
+        {
+            "bank": "Select Bank"
+        },
+        {
+            "aadhaar": "Enter Aadhaar Number"
+        },
+        {
+            "amount": "Enter Amount"
+        }
+    ],
+    "aepsRecipt": [
+        {
+            "agentId": "Agent ID"
+        },
+        {
+            "agentName": "Agent Name"
+        },
+        {
+            "terminal": "Terminal ID"
+        },
+        {
+            "uidaiCode": "UIDAI Auth Code"
+        },
+        {
+            "rrn": "RRN"
+        },
+        {
+            "customerPhone": "Customer Phone No"
+        },
+        {
+            "bank": "Bank"
+        },
+        {
+            "paymentMethod": "Payment Method"
+        },
+        {
+            "date": "Date"
+        },
+        {
+            "stan": "STAN"
+        },
+        {
+            "aadhaarNumber": "Aadhar Number"
+        },
+        {
+            "iinNumber": "IIN Number"
+        },
+        {
+            "transactionStatus": "Transaction Status"
+        },
+        {
+            "transactionAmount": "Transaction Amount"
+        }
+    ]
+}

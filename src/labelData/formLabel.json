@@ -1,0 +1,10 @@
+{
+    "aeps": {
+        "en": [
+            {"phone" : "Enter Phone Number"},
+            {"bank" : "Select Bank"},
+            {"aadhaar" : "Enter Aadhaar Number"},
+            {"amount" : "Enter Amount"}
+        ]
+    }
+}

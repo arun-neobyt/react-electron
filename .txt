@@ -1,0 +1,18 @@
+#  pre req 
+REACT_APP_AUTH = qODcIgxQoj8qXZOpJ3RUaGJIvZROcWdHdLnQXwrs
+REACT_APP_HMACKEY = Eij6VONndImOY2vKz1mMPNJf9o1z9m5WLJMqC9FvuxY2
+REACT_APP_MOB_ENC_SALT=2vKz1mMPNJf9s4t1z9m5WLJMqC9FvuxY
+REACT_APP_BIILLER_SALT = qOXDKcIgxQoj8qXZOpJ3R3UaGJIvZROcWdHdLnQXwrs=
+REACT_APP_INTERAL_SALT=7defbac31a52b5jyt62f8f8cc9f63f6q
+
+
+# pid & appName
+REACT_APP_PID=NFT
+REACT_APP_APPNAME=com.neobyt.agent
+
+
+# uat url
+
+REACT_APP_BASE_URL_V2= https://uatapi.stampjar.com/blsv2/
+
+

@@ -1,0 +1,65 @@
+.aeps-finger{
+    display: flex;
+    justify-content: center;
+}
+.aeps-finger i{
+    font-size: 100px;
+    color: aquamarine;
+}
+.qrcode {
+    width: 180px;
+}
+.menu-item.active {
+    background-color: #222; /* Set your desired background color for the active menu item */
+}
+.login-image{
+    background-image: url('../media/illustrations/sigma-1/2.png');
+}
+.qr-login{
+    display: flex;
+    justify-content: center;
+}
+.qr-login p {
+    font-size: 10px;
+    color: #222;
+    margin-top: 4px;
+    cursor: pointer;
+}
+.qr-login p:hover{
+    color: rgb(204, 186, 19);
+}
+.qr-inst p{
+    color: #566766;
+    font-weight: 600px;
+    font-size: 10px;
+}
+
+/* otp login  */
+
+.otp-field{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.otp-field label{
+    font-size: 16px;
+    color: green;
+    margin: 0px 0px 10px 0px;
+    font-weight: 700;
+}
+.otp-field input{
+    border: none;
+    width: 100px;
+}
+.otp-field button{
+    width: 100px;
+}
+
+
+/* // deposit forms heights  */
+.aeps-form{
+    height: 600px;
+    /* overflow: scroll; */
+}
+
